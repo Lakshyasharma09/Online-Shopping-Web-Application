@@ -9,7 +9,7 @@ A simple e-commerce web application built using **Java**, **JSP**, **JDBC**, and
 - **Server**: Apache Tomcat
 
 ## ✅ Features
-- User sign up & login
+- User sign up & login 
 - Product listing & cart
 - Place orders with payment option
 - Admin: add/edit/delete products, manage orders
